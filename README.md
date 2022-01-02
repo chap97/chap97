@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chap97
 - 👀 I’m interested in full stack development, micro-services and event-driven architecture
-- 🌱 I’m currently learning .NET, Kafka, Cloud services (Azure, GCS, AWS)
+- 🌱 I’m currently learning React, Golang, Kafka, Cloud services (Azure, GCS, AWS)
 - 💞️ I’m looking to collaborate on .NET and React apps
 - 📫 How to reach me: chapp97@outlook.com
